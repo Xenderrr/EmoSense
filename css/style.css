@@ -38,6 +38,48 @@ div.button {
     color: rgb(255, 255, 255);
 }
 
+main {
+    height: 80vh;
+    background-color: #F2EEF4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+
+.container {
+    height: 70vh;
+    background-color: #ffffff;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    font-family: Calibri;
+    text-align: center;
+    font-size: large;
+}
+
+.hi {
+    margin: auto;
+}
+
+.func {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.together {
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+.article {
+    text-align: left;
+}
+
 .icon {
     height: 5vh;
 }
